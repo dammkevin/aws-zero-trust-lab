@@ -1,5 +1,3 @@
-# aws-zero-trust-lab
-
 # AWS Zero Trust Security Lab
 
 **Cloud Security | IAM | Automation**
