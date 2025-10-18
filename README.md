@@ -7,7 +7,7 @@ This project demonstrates the implementation of Zero Trust principles within AWS
 It includes Python and Go automation scripts for auditing cloud resources, identifying misconfigurations, and enforcing least privilege.
 
 ## 🏗 Architecture
-![Zero Trust Diagram] (architecture/zero-trust-diagram.png)
+![Zero Trust Diagram](architecture/zero-trust-diagram.png)
 
 ## 🔐 Key Features
 - Enforced MFA and least-privilege IAM roles across users and services
